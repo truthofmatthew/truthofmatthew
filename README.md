@@ -1,12 +1,30 @@
-## Hi, I'm Mathew 👋🏾 👨🏽‍💻 with only 1 T
-
-&nbsp;
-Like most tech enthusiasts, I deeply appreciate open source software from all over the world, which empowers me to pursue my passions in automation and design. I've been on this journey of discovery with code since I was 9 years old (back in 1997), thanks to the encouragement and support from my aunt and uncle, and a cherished computer my dad gifted me when I was just 7 years old (1995). Design and user experience have always been my driving forces before I delve into the intricate process of solution-building. Coding isn't just a task for me; it's integrated into every facet of my life, from creating motion graphics in After Effects to design projects in Figma and Photoshop, and even in my writing. Throughout my exploration of the vast landscape of technology, I've narrowed down my true passions to two main areas: design and automation. For me, automation stands out because it simplifies life—anything that doesn't achieve this simply doesn't cut it for me.
-
-&nbsp;
-I have always embraced coding, but I've shyed away from labels like programmer, coder, or developer, because I hold a firm belief that everyone should know how to code. Coding isn't just for building software; it's a mindset for enhancing expertise in any domain. If you're not using code to advance your field, then it's playing a game without aiming to win. I have a fondness for AI (mostly devouring new research papers) and machine learning, constantly seeking to implement new techniques to enhance productivity, not just for myself but potentially for others as well. To me, boosting productivity is paramount.
-
----
 - 🌍 Open source empowers global innovation.
 - 💡 Coding since 9, fueled by curiosity.
 - 📚 Avid reader of AI and ML papers.
+
+---
+#### Mathew 👋🏾 👨🏽‍💻 with only 1 T
+&nbsp;
+My dad gave me a computer in 1997 and my late aunt and uncle helped me coding. ⁤⁤making things easier and better is big part of my life. ⁤⁤I want to use technology to help others.
+⁤
+&nbsp;
+⁤I believe coding skills are essential for all. ⁤⁤It's more than making software; it's about improving any area. ⁤⁤My focus is on AI and machine learning to increase productivity, aiming to benefit everyone.
+
+&nbsp;
+When I open-source projects, it's not just about code. I also share my business ideas. Look in the **"business"** folder in my projects. You'll find ideas and plans. If you have a team and some money for marketing, you could start a business with these ideas. Do you need to pay me? No. I love creating and making the world better. 
+
+**Skills:**
+- 🐍 Expert in Python for AI and machine learning, with a strong coding background.
+- 🔍 Skilled in data analysis and automation to enhance productivity.
+- 🌟 Visionary leader adept at fostering innovation, team collaboration, and strategic planning to align technology initiatives with business goals.
+
+---
+<p align="center">
+  <img src="images/apple-svgrepo-com-2.svg" width="32px" style="margin: 5px;" />
+  <img src="images/notion-logo-svgrepo-com.svg" width="32px" style="margin: 5px;" />
+  <img src="images/jb-pycharm-svgrepo-com.svg" width="32px" style="margin: 5px;" />
+  <img src="images/python-svgrepo-com.svg" width="32px" style="margin: 5px;" />
+  <img src="images/pytorch-svgrepo-com.svg" width="32px" style="margin: 5px;" />
+  <img src="images/js-svgrepo-com.svg" width="32px" style="margin: 5px;" />
+  <img src="images/figma-svgrepo-com.svg" width="32px" style="margin: 5px;" />
+</p>
