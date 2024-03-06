@@ -1,4 +1,3 @@
-![mathew karimi banner](https://github.com/mtkarimi/mtkarimi/blob/main/images/lp.png)
 - 🌍 Open source empowers global innovation.
 - 💡 Coding since 9, fueled by curiosity.
 - 📚 Avid reader of AI and ML papers.
