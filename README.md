@@ -1,4 +1,4 @@
-![mathew_karimi](images/mewthew.png)
+![mathew_karimi](images/meow_blue.png)
 
 - 🌍 Open source empowers global innovation.
 - 💡 Coding since 9, fueled by curiosity.
