@@ -1,11 +1,11 @@
-![mathew_karimi](images/meow_blue.png)
+![Matthew Truth](images/meow_blue.png)
 
 - 🌍 Open source empowers global innovation.
 - 💡 Coding since 9, fueled by curiosity.
 - 📚 Avid reader of AI and ML papers.
 
 ---
-#### Mathew 👋🏾 👨🏽‍💻 with only 1 T
+#### Matthew 👋🏾 👨🏽‍💻
 &nbsp;
 My dad gave me a computer in 1997 and my late aunt and uncle helped me coding. ⁤⁤making things easier and better is big part of my life. ⁤I believe coding skills are essential for all. it's about improving any area. ⁤⁤My focus is on AI and machine learning to increase productivity, aiming to benefit everyone.
 
