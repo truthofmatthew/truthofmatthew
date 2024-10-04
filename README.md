@@ -1,4 +1,4 @@
-![Matthew Truth](images/meow_blue.jpeg)
+![Matthew Truth](images/fox_banner.jpeg)
 
 - 🌍 Open source empowers global innovation.
 - 💡 Coding since 9, fueled by curiosity.
