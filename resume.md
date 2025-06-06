@@ -1,78 +1,73 @@
-# MohammadTaghi Karimi  
-[LinkedIn](https://linkedin.com/in/truthofmatthew/) | truthofmatthew@gmail.com | +98-901-3737-731
+**MohammadTaghi Karimi**  
+truthofmatthew@gmail.com | +98-901-3737-731 | [LinkedIn](#)
 
-## SUMMARY
-**Product Manager** with over 10 years of experience in product strategy, development, and cross-functional leadership. Specializing in **AI-driven solutions** and **product design**, with a strong focus on **market research**, **user experience**, and **data-driven decision-making**. Proven track record in developing innovative products, from concept to launch, including AI-powered applications like **Rugsage** and **Knotify**. Experienced in leading teams, creating roadmaps, and executing **MVPs** that drive customer satisfaction and business growth.
+---
 
-## EXPERIENCE
+### 💼 Summary  
+Senior Product Manager with 10+ years of experience leading cross-functional teams, launching AI-powered products, and aligning product vision with user needs and business goals. Proven track record of building and scaling solutions that enhance customer experience and operational efficiency. Skilled in data-driven decision-making, agile execution, and bridging business and engineering.
 
-### AI Product Manager | RM INNOVATION  
-*Nov 2022 - Present*  
-- Defined product roadmaps based on user needs and business priorities.  
-- Led cross-functional teams to deliver high-impact features on time.  
-- Managed product lifecycle from concept to launch, ensuring alignment with business goals.  
-- Collaborated with stakeholders to prioritize features and drive product vision.  
-- **Developed two innovative AI-driven products**:
-  - **Rugsage**: An AI knowledge-based tool for OCR of books and image labeling, transforming data into smart eBooks and knowledge bases.  
-  - **Knotify**: Leveraged Twilio APIs to create an AI-driven platform for MMS/SMS campaigns, integrating AI to generate text and images, with analytics for campaign management.
+---
 
-### Product Designer | Dotin  
-*Nov 2024 - Present*  
-- Designed **HR management applications** focused on **employee experience** and **employee satisfaction**.  
-- Conducted extensive **market research using AI tools** to assess customer needs and feedback.  
-- Created and validated **MVPs** for both products, ensuring alignment with market demands.  
-- Delivered **detailed product documents** to development teams for implementation.  
-- Led the **product design** and ensured the creation of user-friendly, innovative solutions in the HR space.
+### 🚀 Experience  
 
-### Executive Director & Product Manager | Zavié  
-*Mar 2021 - Jun 2022*  
-- Led the development of a community management platform.  
-- Prioritized product improvements using user feedback and data-driven insights.  
-- Delivered new features that supported business growth and user engagement.
+**Senior Product Manager – RM INNOVATION**  
+*Nov 2022 – Present*  
+- Defined product strategy and roadmap for AI-powered tools enhancing user workflows and data intelligence.  
+- Launched **Rugsage**: an OCR & knowledge-base platform automating book digitization into smart eBooks.  
+- Created **Knotify**: an AI-assisted SMS/MMS campaign manager using Twilio, with integrated analytics.  
+- Collaborated with engineering, design, and GTM teams to ship high-impact features aligned with metrics.  
 
-### Product Manager | ParadiseHub  
-*Aug 2018 - Sep 2019*  
-- Managed website development, improving overall functionality and user experience.  
-- Aligned product strategy with user needs and business objectives.  
-- Led the team in prioritizing and launching key features to enhance the platform.
+**Product Designer – Dotin (Contract Project)**  
+*Nov 2024 – Present*  
+- Designed employee satisfaction and experience platforms from scratch.  
+- Conducted market research using AI tools and validated MVPs with user testing.  
+- Handed off implementation-ready specs to development teams.  
 
-### Product Manager | Avatech Accelerator  
-*Nov 2015 - Dec 2018*  
-- Directed the development of the Avatech website, enhancing usability.  
-- Focused on improving platform functionality to support startup growth.  
-- Worked closely with teams to ensure smooth feature implementation.
+**Executive Director & Product Manager – Zavié**  
+*Mar 2021 – Jun 2022*  
+- Built a community management product, iterated based on feedback, and grew user engagement.  
 
-### Product Manager | Press TV  
-*Mar 2010 - Apr 2015*  
-- Led the development of Android apps, focusing on improving user retention.  
-- Managed feature implementation and collaborated with teams to enhance app performance.
+**Product Manager – ParadiseHub**  
+*Aug 2018 – Sep 2019*  
+- Improved platform usability and added core features to increase retention.  
 
-## FOUNDER EXPERIENCE
+**Product Manager – Avatech Accelerator**  
+*Nov 2015 – Dec 2018*  
+- Led Avatech’s web platform, focusing on startup discovery, community, and usability.  
 
-### Founder & Android Developer | Ronevis  
-*From Dec 2014*  
-- Developed an open-source Android app for photo text creation, focusing on Persian and Arabic fonts.  
-- Led the entire project, managing font rendering, UI design, and asset management.
+**Product Manager – PressTV**  
+*Mar 2010 – Apr 2015*  
+- Owned Android app roadmap, focused on news delivery and retention improvement.
 
-### Founder & PHP Developer | Parandeban  
-*From Mar 2013*  
-- Launched a platform promoting ethical bird care and conservation.  
-- Led initiatives to raise awareness for bird welfare and built a strong community of advocates.
+---
 
-## SKILLS
-- **Product Management**, **Roadmapping**, **Strategy Development**
-- **Cross-Functional Leadership**, **Agile Methodologies**
-- **Market Research**, **Data Analysis**, **Problem Solving**
-- **Technical Skills**: Python, SQL, **Computer Vision**, **OCR**, Twilio APIs, Jira, PowerPoint, Figma, Excel
+### 🛠 Founder Experience  
 
-## EDUCATION
-- **MBA**, Edalat University, Graduated Dec 2019  
-- **Bachelor of Graphic Design**, University of Applied Science and Technology, Graduated Dec 2017  
-- **Diploma of Computer Science**, Islamic Azad University, Graduated Aug 2012
+**Ronevis – Founder & Android Dev**  
+*Dec 2014 – Present*  
+- Built an open-source Persian/Arabic calligraphy app with advanced text rendering.
 
-## LICENSES & CERTIFICATIONS
-- **Career Essentials in Generative AI**, Microsoft, Issued Mar 2024  
-- **Python**, Kaggle, Issued Nov 2022  
-- **The Secret Power of Brands**, University of East Anglia, Issued Nov 2016  
-- **Strategic Management**, Aryana Business School, Issued Oct 2016  
-- **Startup Weekend Facilitator Training**, Udemy, Issued Aug 2015
+**Parandeban – Founder**  
+*Mar 2013 – Present*  
+- Launched Iran’s largest birdcare platform promoting awareness and conservation.
+
+---
+
+### 🧠 Skills  
+Product Strategy · Roadmaps · Agile · Data Analysis · User Research · Cross-functional Leadership  
+Python · SQL · Computer Vision · OCR · Twilio APIs · Figma · Jira · PowerPoint · Excel
+
+---
+
+### 🎓 Education  
+**MBA** – Edalat University | 2019  
+**B.A. Graphic Design** – Univ. of Applied Science | 2017  
+**Diploma, Computer Science** – Azad University | 2012
+
+---
+
+### 📜 Certifications  
+- Generative AI – Microsoft (2024)  
+- SQL, Git, Python, Design Patterns – Quera (2025)  
+- Strategic Mgmt – Aryana Business School (2016)  
+- Branding – University of East Anglia (2016)
