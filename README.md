@@ -1,8 +1,10 @@
-![Matthew Truth](images/mt_banner.png)
+![Matthew Truth — Better Call Matt](images/better_call_matt_banner.png)
 
 # Hi, I'm Matthew Truth 👋
 
 **🎯 Product Manager | AI Enthusiast | Open Source Believer**
+
+🌐 [truthofmatthew.com](https://truthofmatthew.com) · [LinkedIn](https://www.linkedin.com/in/truthofmatthew/) · [Substack](https://truthofmatthew.substack.com/) · [X](https://x.com/truthofmatthew) · [Instagram](https://www.instagram.com/truthofmatthew/)
 
 ---
 
@@ -98,8 +100,12 @@ I love creating and making the world a better place. 🌎
 
 ### 📫 Connect with Me
 
-- [LinkedIn](https://linkedin.com/in/truthofmatthew/)
-- truthofmatthew@gmail.com
+- 🌐 Website: [truthofmatthew.com](https://truthofmatthew.com)
+- 💼 LinkedIn: [in/truthofmatthew](https://www.linkedin.com/in/truthofmatthew/)
+- ✍️ Substack: [truthofmatthew.substack.com](https://truthofmatthew.substack.com/)
+- 🐦 X: [@truthofmatthew](https://x.com/truthofmatthew)
+- 📸 Instagram: [@truthofmatthew](https://www.instagram.com/truthofmatthew/)
+- 📧 truthofmatthew@gmail.com
 
 ---
 
