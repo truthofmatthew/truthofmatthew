@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://truthofmatthew.com/sitemap.xml
+Sitemap: https://www.truthofmatthew.com/sitemap.xml
