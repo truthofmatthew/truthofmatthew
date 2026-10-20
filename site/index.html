@@ -123,6 +123,17 @@
       "copyrightNotice": "© Matthew Truth"
     },
     {
+      "@type": "ImageObject",
+      "@id": "https://truthofmatthew.com/#speaking",
+      "contentUrl": "https://truthofmatthew.com/gallery/matthew-truth-speaking-on-stage.jpg",
+      "url": "https://truthofmatthew.com/gallery/matthew-truth-speaking-on-stage.jpg",
+      "width": 1200, "height": 800,
+      "caption": "Matthew Truth speaking on stage at a conference",
+      "creditText": "Matthew Truth",
+      "about": {"@id": "https://truthofmatthew.com/#person"},
+      "copyrightNotice": "© Matthew Truth"
+    },
+    {
       "@type": "Article",
       "headline": "Everyone Wants AI Coders. Almost Nobody Names the Tool.",
       "description": "An analysis of 330 US software job postings and how they ask for AI coding skills.",
@@ -206,6 +217,8 @@
   .gallery a { display: block; }
   .gallery img { width: 100%; height: auto; aspect-ratio: 1; object-fit: cover; transition: transform .3s ease; }
   .gallery figure.wide img { aspect-ratio: 2 / 1; }
+  .gallery figure.full { grid-column: 1 / -1; }
+  .gallery figure.full img { aspect-ratio: 4 / 1; }
   .gallery a:hover img { transform: scale(1.03); }
   .gallery figcaption { padding: 12px 16px 14px; font-size: 14px; color: #cfcfca; }
 
@@ -230,8 +243,9 @@
     .hero { padding-top: 16px; gap: 40px; }
     .photo { order: -1; width: min(72%, 300px); }
     .cards, .links { grid-template-columns: 1fr; }
-    .gallery { grid-template-columns: 1fr 1fr; }
-    .gallery figure.wide { grid-column: span 2; }
+    .gallery { grid-template-columns: 1fr; }
+    .gallery figure.wide, .gallery figure.full { grid-column: auto; }
+    .gallery figure.wide img { aspect-ratio: 3 / 2; }
     .writing { padding: 32px 24px; }
   }
 </style>
@@ -358,13 +372,19 @@
   <section id="gallery">
     <h2 class="display">Gal<span class="green">lery</span></h2>
     <div class="gallery">
+      <figure class="wide">
+        <a href="/gallery/matthew-truth-speaking-on-stage.jpg">
+          <img src="/gallery/matthew-truth-speaking-on-stage.jpg" alt="Matthew Truth speaking on stage at a conference, holding a presentation clicker and wearing a speaker badge" width="1200" height="800" loading="lazy" style="object-position: center 12%">
+        </a>
+        <figcaption>Matthew Truth speaking on stage</figcaption>
+      </figure>
       <figure>
         <a href="/gallery/matthew-truth-portrait.jpg">
           <img src="/gallery/matthew-truth-portrait.jpg" alt="Matthew Truth, product manager and founder of Truth of Matthew, smiling in a black hoodie" width="900" height="900" loading="lazy">
         </a>
         <figcaption>Matthew Truth</figcaption>
       </figure>
-      <figure class="wide">
+      <figure class="full">
         <a href="/gallery/matthew-truth-better-call-matt.jpg">
           <img src="/gallery/matthew-truth-better-call-matt.jpg" alt="Better Call Matt: Matthew Truth pointing at the camera" width="1400" height="350" loading="lazy">
         </a>
