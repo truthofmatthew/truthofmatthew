@@ -4,16 +4,17 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Matthew Truth (@truthofmatthew) — Product Manager, AI & Open Source</title>
-<meta name="description" content="Matthew Truth (truthofmatthew) is a product manager working on AI and machine learning products, an open-source contributor, and a writer. Find Matthew Truth on GitHub, LinkedIn, X, Instagram and Substack.">
+<meta name="description" content="Matthew Truth (truthofmatthew) is a product manager in Muscat, Oman, building AI and machine learning products. Founder of Truth of Matthew, open-source developer and writer.">
 <meta name="author" content="Matthew Truth">
 <link rel="canonical" href="https://truthofmatthew.com/">
-<meta name="robots" content="index, follow">
+<meta name="robots" content="index, follow, max-image-preview:large">
 
 <meta property="og:type" content="profile">
 <meta property="og:title" content="Matthew Truth — Product Manager, AI & Open Source">
 <meta property="og:description" content="Product manager building AI-powered products. Better call Matt.">
 <meta property="og:url" content="https://truthofmatthew.com/">
 <meta property="og:image" content="https://truthofmatthew.com/og.jpg">
+<meta property="og:image:alt" content="Matthew Truth — Better Call Matt">
 <meta property="og:site_name" content="Matthew Truth">
 <meta property="profile:first_name" content="Matthew">
 <meta property="profile:last_name" content="Truth">
@@ -36,36 +37,100 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "ProfilePage",
-  "url": "https://truthofmatthew.com/",
-  "mainEntity": {
-    "@type": "Person",
-    "@id": "https://truthofmatthew.com/#person",
-    "name": "Matthew Truth",
-    "givenName": "Matthew",
-    "familyName": "Truth",
-    "alternateName": ["truthofmatthew", "Matt Truth"],
-    "url": "https://truthofmatthew.com/",
-    "image": "https://truthofmatthew.com/matthew-truth.jpg",
-    "jobTitle": "Product Manager",
-    "homeLocation": {"@type": "Place", "name": "Muscat, Oman", "geo": {"@type": "GeoCoordinates", "latitude": 23.70431, "longitude": 58.0863354}, "hasMap": "https://maps.google.com/?cid=9251355290743022644", "address": {"@type": "PostalAddress", "addressLocality": "Muscat", "addressCountry": "OM"}},
-    "address": {"@type": "PostalAddress", "addressLocality": "Muscat", "addressCountry": "OM"},
-    "description": "Product manager focused on AI and machine learning products, open-source contributor and writer.",
-    "email": "mailto:truthofmatthew@gmail.com",
-    "knowsAbout": ["Product Management", "Artificial Intelligence", "Machine Learning", "UX Design", "Python", "Open Source"],
-    "alumniOf": [
-      {"@type": "CollegeOrUniversity", "name": "Edalat University"},
-      {"@type": "CollegeOrUniversity", "name": "University of Applied Science and Technology"}
-    ],
-    "sameAs": [
-      "https://github.com/truthofmatthew",
-      "https://www.linkedin.com/in/truthofmatthew/",
-      "https://x.com/truthofmatthew",
-      "https://www.instagram.com/truthofmatthew/",
-      "https://truthofmatthew.substack.com/",
-      "https://maps.google.com/?cid=9251355290743022644"
-    ]
-  }
+  "@graph": [
+    {
+      "@type": "ProfilePage",
+      "@id": "https://truthofmatthew.com/#page",
+      "url": "https://truthofmatthew.com/",
+      "name": "Matthew Truth",
+      "dateModified": "2026-10-20",
+      "mainEntity": {"@id": "https://truthofmatthew.com/#person"},
+      "primaryImageOfPage": {"@id": "https://truthofmatthew.com/#portrait"}
+    },
+    {
+      "@type": "Person",
+      "@id": "https://truthofmatthew.com/#person",
+      "name": "Matthew Truth",
+      "givenName": "Matthew",
+      "familyName": "Truth",
+      "alternateName": ["truthofmatthew", "Matt Truth", "Truth of Matthew"],
+      "url": "https://truthofmatthew.com/",
+      "image": {"@id": "https://truthofmatthew.com/#portrait"},
+      "jobTitle": "Product Manager",
+      "description": "Product manager focused on AI and machine learning products, open-source developer and writer, based in Muscat, Oman.",
+      "email": "mailto:truthofmatthew@gmail.com",
+      "address": {"@type": "PostalAddress", "addressLocality": "Muscat", "addressCountry": "OM"},
+      "homeLocation": {"@type": "Place", "name": "Muscat, Oman"},
+      "founder": {"@id": "https://truthofmatthew.com/#business"},
+      "worksFor": [
+        {"@type": "Organization", "name": "Dotin"},
+        {"@type": "Organization", "name": "RM Innovation"}
+      ],
+      "knowsAbout": ["Product Management", "Artificial Intelligence", "Machine Learning", "Computer Vision", "UX Design", "Python", "Open Source", "Prompt Engineering"],
+      "alumniOf": [
+        {"@type": "CollegeOrUniversity", "name": "Edalat University"},
+        {"@type": "CollegeOrUniversity", "name": "University of Applied Science and Technology"}
+      ],
+      "sameAs": [
+        "https://github.com/truthofmatthew",
+        "https://www.linkedin.com/in/truthofmatthew/",
+        "https://x.com/truthofmatthew",
+        "https://www.instagram.com/truthofmatthew/",
+        "https://www.youtube.com/@truthofmatthew",
+        "https://truthofmatthew.substack.com/",
+        "https://substack.com/@truthofmatthew"
+      ]
+    },
+    {
+      "@type": "ProfessionalService",
+      "@id": "https://truthofmatthew.com/#business",
+      "name": "Truth of Matthew",
+      "description": "Product management and AI product consulting by Matthew Truth.",
+      "url": "https://truthofmatthew.com/",
+      "logo": "https://truthofmatthew.com/apple-touch-icon.png",
+      "image": "https://truthofmatthew.com/og.jpg",
+      "email": "truthofmatthew@gmail.com",
+      "founder": {"@id": "https://truthofmatthew.com/#person"},
+      "address": {"@type": "PostalAddress", "addressLocality": "Muscat", "addressCountry": "OM"},
+      "geo": {"@type": "GeoCoordinates", "latitude": 23.70431, "longitude": 58.0863354},
+      "hasMap": "https://maps.google.com/?cid=9251355290743022644",
+      "areaServed": "Worldwide",
+      "sameAs": [
+        "https://www.linkedin.com/company/truthofmatthew",
+        "https://maps.google.com/?cid=9251355290743022644"
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://truthofmatthew.com/#portrait",
+      "contentUrl": "https://truthofmatthew.com/gallery/matthew-truth-portrait.jpg",
+      "url": "https://truthofmatthew.com/gallery/matthew-truth-portrait.jpg",
+      "width": 900, "height": 900,
+      "caption": "Matthew Truth, product manager and founder of Truth of Matthew, smiling in a black hoodie",
+      "creditText": "Matthew Truth",
+      "creator": {"@id": "https://truthofmatthew.com/#person"},
+      "copyrightNotice": "© Matthew Truth"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://truthofmatthew.com/#better-call-matt",
+      "contentUrl": "https://truthofmatthew.com/gallery/matthew-truth-better-call-matt.jpg",
+      "url": "https://truthofmatthew.com/gallery/matthew-truth-better-call-matt.jpg",
+      "width": 1400, "height": 350,
+      "caption": "Better Call Matt: Matthew Truth pointing at the camera",
+      "creditText": "Matthew Truth",
+      "creator": {"@id": "https://truthofmatthew.com/#person"},
+      "copyrightNotice": "© Matthew Truth"
+    },
+    {
+      "@type": "Article",
+      "headline": "Everyone Wants AI Coders. Almost Nobody Names the Tool.",
+      "description": "An analysis of 330 US software job postings and how they ask for AI coding skills.",
+      "url": "https://truthofmatthew.substack.com/p/everyone-wants-ai-coders-almost-nobody",
+      "author": {"@id": "https://truthofmatthew.com/#person"},
+      "publisher": {"@type": "Organization", "name": "Substack"}
+    }
+  ]
 }
 </script>
 
@@ -89,18 +154,17 @@
     -webkit-font-smoothing: antialiased;
   }
   a { color: inherit; }
+  img { max-width: 100%; height: auto; display: block; }
   .wrap { max-width: 1040px; margin: 0 auto; padding: 0 24px; }
   .display { font-family: Anton, Impact, "Arial Narrow", sans-serif; font-weight: 400; letter-spacing: .01em; text-transform: uppercase; line-height: .95; }
   .green { color: var(--green); }
 
-  /* Nav */
   nav { display: flex; justify-content: space-between; align-items: center; padding: 22px 0; }
   nav .mark { font-family: Anton, Impact, sans-serif; font-size: 22px; text-decoration: none; letter-spacing: .02em; }
   nav ul { list-style: none; display: flex; gap: 24px; margin: 0; padding: 0; font-size: 14px; color: var(--muted); }
   nav ul a { text-decoration: none; }
   nav ul a:hover { color: var(--text); }
 
-  /* Hero */
   .hero { display: grid; grid-template-columns: 1.2fr 1fr; gap: 48px; align-items: center; padding: 48px 0 88px; }
   .eyebrow { color: var(--green); font-weight: 600; font-size: 14px; letter-spacing: .12em; text-transform: uppercase; margin: 0 0 18px; }
   h1 { font-size: clamp(64px, 11vw, 132px); margin: 0 0 12px; }
@@ -117,7 +181,6 @@
   .photo::before { content: ""; position: absolute; inset: -6% -6% 6% 6%; background: var(--green); border-radius: 50%; }
   .photo img { position: relative; width: 100%; height: 100%; object-fit: cover; border-radius: 50%; border: 6px solid var(--bg); }
 
-  /* Sections */
   section { padding: 72px 0; border-top: 1px solid var(--line); }
   h2 { font-size: clamp(40px, 6vw, 64px); margin: 0 0 32px; }
   .about { display: grid; grid-template-columns: 1fr 1fr; gap: 48px; }
@@ -125,17 +188,31 @@
   .facts { list-style: none; margin: 0; padding: 0; }
   .facts li { padding: 14px 0; border-bottom: 1px solid var(--line); display: flex; gap: 14px; }
   .facts li span:first-child { color: var(--green); font-weight: 600; min-width: 92px; font-size: 14px; text-transform: uppercase; letter-spacing: .06em; padding-top: 2px; }
+  .facts a { text-decoration-color: var(--green); text-underline-offset: 3px; }
 
-  .jobs { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; }
-  .job { background: var(--surface); border-radius: 18px; padding: 24px; }
-  .job .when { color: var(--muted); font-size: 13px; margin: 0 0 6px; }
-  .job h3 { margin: 0 0 4px; font-size: 19px; }
-  .job .org { color: var(--green); font-weight: 600; margin: 0 0 10px; font-size: 15px; }
-  .job p:last-child { margin: 0; color: #cfcfca; font-size: 15px; }
+  .cards { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; }
+  .card { background: var(--surface); border-radius: 18px; padding: 24px; }
+  .card .when { color: var(--muted); font-size: 13px; margin: 0 0 6px; }
+  .card h3 { margin: 0 0 4px; font-size: 19px; }
+  .card .org { color: var(--green); font-weight: 600; margin: 0 0 10px; font-size: 15px; }
+  .card p:last-child { margin: 0; color: #cfcfca; font-size: 15px; }
+  a.card { text-decoration: none; display: block; transition: background .15s ease; }
+  a.card:hover { background: #343434; }
+  .card .stars { float: right; color: var(--green); font-weight: 600; font-size: 14px; }
+
+  .gallery { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; }
+  .gallery figure { margin: 0; background: var(--surface); border-radius: 18px; overflow: hidden; }
+  .gallery figure.wide { grid-column: span 2; }
+  .gallery a { display: block; }
+  .gallery img { width: 100%; height: auto; aspect-ratio: 1; object-fit: cover; transition: transform .3s ease; }
+  .gallery figure.wide img { aspect-ratio: 2 / 1; }
+  .gallery a:hover img { transform: scale(1.03); }
+  .gallery figcaption { padding: 12px 16px 14px; font-size: 14px; color: #cfcfca; }
 
   .writing { background: var(--green); color: var(--green-ink); border-radius: 28px; padding: 48px; display: grid; grid-template-columns: 1.3fr 1fr; gap: 32px; align-items: center; }
   .writing h2 { margin: 0 0 12px; }
-  .writing p { margin: 0; font-size: 18px; }
+  .writing p { margin: 0 0 8px; font-size: 18px; }
+  .writing .post { font-weight: 600; text-underline-offset: 3px; }
   .writing .btn { background: var(--green-ink); color: var(--green); justify-self: start; }
 
   .links { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; }
@@ -152,7 +229,9 @@
     .hero, .about, .writing { grid-template-columns: 1fr; }
     .hero { padding-top: 16px; gap: 40px; }
     .photo { order: -1; width: min(72%, 300px); }
-    .jobs, .links { grid-template-columns: 1fr; }
+    .cards, .links { grid-template-columns: 1fr; }
+    .gallery { grid-template-columns: 1fr 1fr; }
+    .gallery figure.wide { grid-column: span 2; }
     .writing { padding: 32px 24px; }
   }
 </style>
@@ -164,7 +243,8 @@
     <ul>
       <li><a href="#about">About</a></li>
       <li><a href="#work">Work</a></li>
-      <li><a href="#writing">Writing</a></li>
+      <li><a href="#open-source">Open source</a></li>
+      <li><a href="#gallery">Gallery</a></li>
       <li><a href="#connect">Connect</a></li>
     </ul>
   </nav>
@@ -174,7 +254,7 @@
       <p class="eyebrow">@truthofmatthew</p>
       <h1 class="display">Matthew<br><span class="green">Truth</span></h1>
       <p class="sub display">Better call Matt.</p>
-      <p class="lede">I'm Matthew Truth, a product manager who builds AI-powered products, shares open-source code and business ideas, and has been making things since my dad gave me a computer in 1997.</p>
+      <p class="lede">I'm Matthew Truth, a product manager in Muscat, Oman who builds AI-powered products, shares open-source code and business ideas, and has been making things since my dad gave me a computer in 1997.</p>
       <div class="cta">
         <a class="btn primary" href="mailto:truthofmatthew@gmail.com">Get in touch</a>
         <a class="btn ghost" href="https://www.linkedin.com/in/truthofmatthew/" rel="me">LinkedIn</a>
@@ -182,7 +262,7 @@
       </div>
     </div>
     <div class="photo">
-      <img src="/matthew-truth.jpg" alt="Matthew Truth smiling, wearing a black hoodie" width="400" height="400">
+      <img src="/matthew-truth.jpg" alt="Matthew Truth, product manager, smiling in a black hoodie" width="400" height="400" fetchpriority="high">
     </div>
   </header>
 
@@ -193,12 +273,13 @@
         <p>I've been coding since I was nine. My late aunt and uncle helped me write my first programs, and making things easier and better has been a big part of my life ever since.</p>
         <p>Today I focus on AI and machine learning: using them to raise productivity and build products that benefit everyone. I read AI and ML papers for fun and believe coding is a life skill, not just a job skill.</p>
         <p>When I open-source a project I share more than code. You'll often find a <em>business</em> folder with the idea behind it, free for any team that wants to build it.</p>
+        <p>Through <strong>Truth of Matthew</strong>, my practice in Muscat, I help teams plan and ship AI products.</p>
       </div>
       <ul class="facts">
         <li><span>Focus</span><span>Product management, AI &amp; ML products, UX</span></li>
         <li><span>Skills</span><span>Roadmapping, Agile, Python, SQL, computer vision, Figma</span></li>
         <li><span>Education</span><span>MBA, Edalat University · B.A. Graphic Design</span></li>
-        <li><span>Based in</span><span>Muscat, Oman</span></li>
+        <li><span>Business</span><span><a href="https://www.linkedin.com/company/truthofmatthew">Truth of Matthew</a>, Muscat, Oman</span></li>
         <li><span>Handle</span><span>truthofmatthew, everywhere</span></li>
       </ul>
     </div>
@@ -206,31 +287,60 @@
 
   <section id="work">
     <h2 class="display">Selected <span class="green">work</span></h2>
-    <div class="jobs">
-      <article class="job">
+    <div class="cards">
+      <article class="card">
         <p class="when">Nov 2024 – present</p>
         <h3>Product Manager &amp; Designer</h3>
         <p class="org">Dotin</p>
         <p>Product ideation, user research and prototyping for HRM apps.</p>
       </article>
-      <article class="job">
+      <article class="card">
         <p class="when">Nov 2022 – present</p>
         <h3>AI Product Manager</h3>
         <p class="org">RM Innovation</p>
         <p>Built Rugsage, an AI eBook builder and chatbot for the rug industry, and launched AI reporting in RMPro.</p>
       </article>
-      <article class="job">
+      <article class="card">
         <p class="when">2021 – 2022</p>
         <h3>Executive Director &amp; PM</h3>
         <p class="org">Zavié</p>
         <p>Built a community management platform from scratch and grew engagement 25%.</p>
       </article>
-      <article class="job">
-        <p class="when">2013 – present</p>
-        <h3>Founder &amp; Developer</h3>
-        <p class="org">Ronevis / Parandeban</p>
-        <p>An open-source photo-text Android app with 5,000+ downloads, and a conservation community of 1,000+ users.</p>
+      <article class="card">
+        <p class="when">2010 – 2015</p>
+        <h3>Product Manager</h3>
+        <p class="org">Press TV</p>
+        <p>Led Android app development, adding offline access and notifications and improving retention by 20%.</p>
       </article>
+    </div>
+  </section>
+
+  <section id="open-source">
+    <h2 class="display">Open <span class="green">source</span></h2>
+    <div class="cards">
+      <a class="card" href="https://github.com/truthofmatthew/persian-license-plate-recognition">
+        <span class="stars">★ 449</span>
+        <h3>Persian License Plate Recognition</h3>
+        <p class="org">Python · YOLOv5 · computer vision</p>
+        <p>Real-time, high-accuracy recognition of Persian license plates with YOLOv5 and custom models.</p>
+      </a>
+      <a class="card" href="https://github.com/truthofmatthew/ronevis">
+        <span class="stars">★ 99</span>
+        <h3>Ronevis</h3>
+        <p class="org">Java · Android</p>
+        <p>Photo-text Android app with custom engines for Persian and Arabic font rendering; 5,000+ downloads.</p>
+      </a>
+      <a class="card" href="https://github.com/truthofmatthew/small-automation">
+        <h3>Small Automation</h3>
+        <p class="org">JavaScript · automation</p>
+        <p>Automation scripts for batch processing, web automation and everyday tasks, built to save time.</p>
+      </a>
+      <a class="card" href="https://github.com/truthofmatthew/prompt-design-and-engineering-techniques">
+        <span class="stars">★ 5</span>
+        <h3>Prompt Design &amp; Engineering</h3>
+        <p class="org">LLMs · prompting</p>
+        <p>My own collected techniques for designing and engineering prompts for large language models.</p>
+      </a>
     </div>
   </section>
 
@@ -238,9 +348,28 @@
     <div class="writing">
       <div>
         <h2 class="display">Read my Substack</h2>
-        <p>Notes on AI, product and building things, written by Matthew Truth.</p>
+        <p>Data-driven notes on AI, product and the job market, written by Matthew Truth.</p>
+        <p>Latest: <a class="post" href="https://truthofmatthew.substack.com/p/everyone-wants-ai-coders-almost-nobody">Everyone Wants AI Coders. Almost Nobody Names the Tool.</a></p>
       </div>
       <a class="btn" href="https://truthofmatthew.substack.com/" rel="me">Subscribe on Substack →</a>
+    </div>
+  </section>
+
+  <section id="gallery">
+    <h2 class="display">Gal<span class="green">lery</span></h2>
+    <div class="gallery">
+      <figure>
+        <a href="/gallery/matthew-truth-portrait.jpg">
+          <img src="/gallery/matthew-truth-portrait.jpg" alt="Matthew Truth, product manager and founder of Truth of Matthew, smiling in a black hoodie" width="900" height="900" loading="lazy">
+        </a>
+        <figcaption>Matthew Truth</figcaption>
+      </figure>
+      <figure class="wide">
+        <a href="/gallery/matthew-truth-better-call-matt.jpg">
+          <img src="/gallery/matthew-truth-better-call-matt.jpg" alt="Better Call Matt: Matthew Truth pointing at the camera" width="1400" height="350" loading="lazy">
+        </a>
+        <figcaption>Better Call Matt</figcaption>
+      </figure>
     </div>
   </section>
 
@@ -249,7 +378,9 @@
     <div class="links">
       <a href="https://github.com/truthofmatthew" rel="me"><span><strong>GitHub</strong><small>@truthofmatthew</small></span><span class="arrow">↗</span></a>
       <a href="https://www.linkedin.com/in/truthofmatthew/" rel="me"><span><strong>LinkedIn</strong><small>in/truthofmatthew</small></span><span class="arrow">↗</span></a>
+      <a href="https://www.linkedin.com/company/truthofmatthew"><span><strong>Truth of Matthew</strong><small>LinkedIn company page</small></span><span class="arrow">↗</span></a>
       <a href="https://truthofmatthew.substack.com/" rel="me"><span><strong>Substack</strong><small>truthofmatthew.substack.com</small></span><span class="arrow">↗</span></a>
+      <a href="https://www.youtube.com/@truthofmatthew" rel="me"><span><strong>YouTube</strong><small>@truthofmatthew</small></span><span class="arrow">↗</span></a>
       <a href="https://x.com/truthofmatthew" rel="me"><span><strong>X</strong><small>@truthofmatthew</small></span><span class="arrow">↗</span></a>
       <a href="https://www.instagram.com/truthofmatthew/" rel="me"><span><strong>Instagram</strong><small>@truthofmatthew</small></span><span class="arrow">↗</span></a>
       <a href="https://maps.google.com/?cid=9251355290743022644"><span><strong>Google Maps</strong><small>Truth of Matthew · Muscat</small></span><span class="arrow">↗</span></a>
@@ -257,7 +388,7 @@
     </div>
   </section>
 
-  <footer>© <span id="y">2026</span> Matthew Truth · truthofmatthew</footer>
+  <footer>© <span id="y">2026</span> Matthew Truth · Truth of Matthew · Muscat, Oman</footer>
 </div>
 <script>document.getElementById('y').textContent = new Date().getFullYear();</script>
 </body>

@@ -4,7 +4,7 @@
 
 **🎯 Product Manager | AI Enthusiast | Open Source Believer**
 
-🌐 [truthofmatthew.com](https://truthofmatthew.com) · [LinkedIn](https://www.linkedin.com/in/truthofmatthew/) · [Substack](https://truthofmatthew.substack.com/) · [X](https://x.com/truthofmatthew) · [Instagram](https://www.instagram.com/truthofmatthew/)
+🌐 [truthofmatthew.com](https://truthofmatthew.com) · [LinkedIn](https://www.linkedin.com/in/truthofmatthew/) · [Substack](https://truthofmatthew.substack.com/) · [YouTube](https://www.youtube.com/@truthofmatthew) · [X](https://x.com/truthofmatthew) · [Instagram](https://www.instagram.com/truthofmatthew/)
 
 ---
 
@@ -102,7 +102,9 @@ I love creating and making the world a better place. 🌎
 
 - 🌐 Website: [truthofmatthew.com](https://truthofmatthew.com)
 - 💼 LinkedIn: [in/truthofmatthew](https://www.linkedin.com/in/truthofmatthew/)
+- 🏢 Business: [Truth of Matthew on LinkedIn](https://www.linkedin.com/company/truthofmatthew) · Muscat, Oman
 - ✍️ Substack: [truthofmatthew.substack.com](https://truthofmatthew.substack.com/)
+- ▶️ YouTube: [@truthofmatthew](https://www.youtube.com/@truthofmatthew)
 - 🐦 X: [@truthofmatthew](https://x.com/truthofmatthew)
 - 📸 Instagram: [@truthofmatthew](https://www.instagram.com/truthofmatthew/)
 - 📧 truthofmatthew@gmail.com
