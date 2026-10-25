@@ -49,7 +49,7 @@ Senior Product Manager with 10+ years of experience leading cross-functional tea
 
 **Parandeban – Founder**  
 *Mar 2013 – Present*  
-- Launched Iran’s largest birdcare platform promoting awareness and conservation, with 50,000+ users and 12M+ views.
+- Launched Iran’s largest birdcare platform promoting awareness and conservation, with 50,000+ users and 12M+ views a year.
 
 ---
 
