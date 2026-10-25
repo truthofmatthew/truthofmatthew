@@ -61,8 +61,8 @@ I love creating and making the world a better place. 🌎
 
 #### Founder & Developer | Ronevis / Parandeban
 **2013 – Present**
-- Created an open-source photo text Android app (5,000+ downloads).
-- Built a conservation-focused online platform, growing a community of 1,000+ users.
+- Created Ronevis, an open-source photo text Android app that passed 150,000 users in less than a year (2014).
+- Built Parandeban, a conservation-focused birdwatching community with 12M+ views.
 
 ---
 

@@ -46,7 +46,7 @@ Passionate about building products that people love! 10+ years experience across
 
 ### 🛠️ Founder & Developer | Ronevis / Parandeban
 **Dec 2014 – Present**
-- Launched apps and online communities with 5,000+ downloads and 1,000+ users.
+- Launched Ronevis (150,000+ users in less than a year) and Parandeban (a birdwatching community with 12M+ views).
 
 ---
 
