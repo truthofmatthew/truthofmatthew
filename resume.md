@@ -45,11 +45,11 @@ Senior Product Manager with 10+ years of experience leading cross-functional tea
 
 **Ronevis – Founder & Android Dev**  
 *Dec 2014 – Present*  
-- Built an open-source Persian/Arabic calligraphy app with advanced text rendering.
+- Built an open-source Persian/Arabic calligraphy app with advanced text rendering; it passed 150,000 users in less than a year.
 
 **Parandeban – Founder**  
 *Mar 2013 – Present*  
-- Launched Iran’s largest birdcare platform promoting awareness and conservation.
+- Launched Iran’s largest birdcare platform promoting awareness and conservation, with 50,000+ users and 12M+ views a year.
 
 ---
 
