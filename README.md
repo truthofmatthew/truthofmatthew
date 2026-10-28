@@ -1,114 +1,54 @@
-![Matthew Truth — Better Call Matt](images/better_call_matt_banner.png)
+![Matthew Truth, Better Call Matt](images/better_call_matt_banner.png)
 
-# Hi, I'm Matthew Truth 👋
+# Hi, I'm Matthew Truth
 
-**🎯 Product Manager | AI Enthusiast | Open Source Believer**
+**Product lead and designer. I design products people stop thinking about, then I build them.**
 
-🌐 [truthofmatthew.com](https://truthofmatthew.com) · [LinkedIn](https://www.linkedin.com/in/truthofmatthew/) · [Substack](https://truthofmatthew.substack.com/) · [YouTube](https://www.youtube.com/@truthofmatthew) · [X](https://x.com/truthofmatthew) · [Instagram](https://www.instagram.com/truthofmatthew/)
+I share open tools for product people and right-to-left design. Follow to get them first.
 
----
-
-### 🌍 About Me
-
-- 💡 Coding since 9, fueled by curiosity.
-- 📚 Avid reader of AI and ML papers.
-- 🧠 Passionate about building products that make life easier and better.
-- 🌟 Open-source contributor, business idea sharer, lifelong learner.
-
-&nbsp;
-
-#### Matthew 👨🏽‍💻
-
-My dad gave me a computer in 1997, and my late aunt and uncle helped me start coding. Making things easier and better has been a big part of my life ever since.  
-I believe coding skills are essential for everyone — not just for programmers — but for improving every area of life.  
-My focus today is on **AI and machine learning** to **increase productivity** and **build solutions that benefit everyone**.
-
-When I open-source projects, it's not just about code.  
-I also share business ideas — you'll find them in the **"business"** folder of my projects.  
-If you have a team and some marketing resources, you can launch your own business from these ideas — no payment to me is needed.  
-I love creating and making the world a better place. 🌎
+[truthofmatthew.com](https://truthofmatthew.com) · [LinkedIn](https://www.linkedin.com/in/truthofmatthew/) · [Substack](https://truthofmatthew.substack.com/) · [YouTube](https://www.youtube.com/@truthofmatthew) · [X](https://x.com/truthofmatthew) · [Instagram](https://www.instagram.com/truthofmatthew/)
 
 ---
 
-### 💼 Work Experience
+### What I'm building now
 
-#### Product Manager & Designer | Dotin
-**Nov 2024 – Present**
-- Spearhead product ideation, user research, and prototype development for HRM apps.
-- Finalize 1+ app research and design per quarter, handing off to development teams.
+- **Parandeban:** a knowledge base for Iran's birds, in more than one language. Ask a question in plain words, get an answer. It started as the birdwatching community I built years ago, which grew to over 12 million views a year.
+- **[Figma-Plugin-Ebook-Creator](https://github.com/truthofmatthew/Figma-Plugin-Ebook-Creator):** turns Markdown or AI-generated text into styled, editable ebook pages in Figma, then exports the whole book as one PDF.
 
-#### AI Product Manager | RM INNOVATION
-**Nov 2022 – Present**
-- Built *Rugsage*, an AI-powered eBook builder and chatbot for the rug industry.
-- Designed and launched AI Report feature for RMPro, improving user data visualization and engagement.
+### Start here
 
-#### Executive Director & Product Manager | Zavié
-**Mar 2021 – Jun 2022**
-- Built a community management platform from scratch, reaching 180+ active users.
-- Increased engagement by 25% through feature launches like messaging and events modules.
+- **[persian-license-plate-recognition](https://github.com/truthofmatthew/persian-license-plate-recognition):** reads Iranian license plates from a camera, a video or a photo. Runs in a browser tab, on the desktop, as an API server or at the gate.
+- **[ronevis](https://github.com/truthofmatthew/ronevis):** an open source Android app for putting Persian and Arabic text on photos. It passed 150,000 users in under a year (2014).
+- **[Figma-Plugin-Ebook-Creator](https://github.com/truthofmatthew/Figma-Plugin-Ebook-Creator):** see above.
 
-#### Product Manager | ParadiseHub
-**Aug 2018 – Sep 2019**
-- Led a complete UX/UI redesign, improving page load speed by 30% and session duration by 20%.
+### Read my studies
 
-#### Product Manager | Avatech Accelerator
-**Nov 2015 – Dec 2018**
-- Developed platform features that boosted startup applications by 30% year-over-year.
+- [Everything is AI now](https://truthofmatthew.substack.com/p/every-thing-is-ai-now): how many Y Combinator startups call themselves AI companies, summer 2026 against winter 2022.
+- [Everyone wants AI coders, almost nobody says which tool](https://truthofmatthew.substack.com/p/everyone-wants-ai-coders-almost-nobody): what 330 US software job posts ask for.
 
-#### Product Manager | Press TV
-**Mar 2010 – Apr 2015**
-- Led Android app development, improving retention by 20% and adding offline access and notifications.
-
-#### Founder & Developer | Ronevis / Parandeban
-**2013 – Present**
-- Created Ronevis, an open-source photo text Android app that passed 150,000 users in less than a year (2014).
-- Built Parandeban, a conservation-focused birdwatching community with 50,000+ users and 12M+ views a year.
+[Subscribe on Substack](https://truthofmatthew.substack.com/)
 
 ---
 
-### 🛠 Skills
+### About me
 
-- **Product Management** | Roadmapping | Agile Development
-- **AI & Machine Learning Applications** | Python | SQL | Computer Vision
-- **UX/UI Design** | Figma | Prototyping | Data-driven Product Decisions
-- **Automation & Productivity Tools** | Git | Jira | Excel | PowerPoint
-- **Visionary Leadership** | Strategic Planning | Team Collaboration
+My dad gave me a computer in 1997, and my late aunt and uncle helped me start coding. Making things easier and better has been a big part of my life ever since.
 
----
+I believe coding is for everyone, not just programmers. These days I lead product at a startup, and I still prototype and build what I design.
 
-### 🎓 Education
+When I open source a project I also share business ideas. You'll find them in the "business" folder of those projects. If you have a team and some marketing resources, you can launch a business from them. No payment to me is needed.
 
-- **MBA** | Edalat University | 2019
-- **Bachelor of Graphic Design** | University of Applied Science and Technology | 2017
-- **Diploma of Computer Science** | Islamic Azad University | 2012
+My full work history is on [LinkedIn](https://www.linkedin.com/in/truthofmatthew/).
 
 ---
 
-### 📜 Certifications
+### Connect
 
-- Career Essentials in Generative AI | Microsoft
-- Python | Kaggle
-- Git Fundamentals | Quera.org
-- SQL for Beginners | Quera.org
-- Problem Solving and Algorithmic Thinking | Faradars
-- Python Programming | Faradars
-- The Secret Power of Brands | University of East Anglia
-- Strategic Management | Aryana Business School
-- Startup Weekend Facilitator Training | Udemy
-
----
-
-### 📫 Connect with Me
-
-- 🌐 Website: [truthofmatthew.com](https://truthofmatthew.com)
-- 💼 LinkedIn: [in/truthofmatthew](https://www.linkedin.com/in/truthofmatthew/)
-- 🏢 Business: [Truth of Matthew on LinkedIn](https://www.linkedin.com/company/truthofmatthew) · Muscat, Oman
-- ✍️ Substack: [truthofmatthew.substack.com](https://truthofmatthew.substack.com/)
-- ▶️ YouTube: [@truthofmatthew](https://www.youtube.com/@truthofmatthew)
-- 🐦 X: [@truthofmatthew](https://x.com/truthofmatthew)
-- 📸 Instagram: [@truthofmatthew](https://www.instagram.com/truthofmatthew/)
-- 📧 truthofmatthew@gmail.com
-
----
-
-_Thanks for visiting! ⭐ Feel free to collaborate, share ideas, or just connect!_
+- Website: [truthofmatthew.com](https://truthofmatthew.com)
+- LinkedIn: [in/truthofmatthew](https://www.linkedin.com/in/truthofmatthew/)
+- Substack: [truthofmatthew.substack.com](https://truthofmatthew.substack.com/)
+- YouTube: [@truthofmatthew](https://www.youtube.com/@truthofmatthew)
+- X: [@truthofmatthew](https://x.com/truthofmatthew)
+- Instagram: [@truthofmatthew](https://www.instagram.com/truthofmatthew/)
+- Email: truthofmatthew@gmail.com
+- Based in Muscat, Oman
