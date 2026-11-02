@@ -21,6 +21,11 @@ I share open tools for product people and right-to-left design. Follow to get th
 - **[ronevis](https://github.com/truthofmatthew/ronevis):** an open source Android app for putting Persian and Arabic text on photos. It passed 150,000 users in under a year (2014).
 - **[Figma-Plugin-Ebook-Creator](https://github.com/truthofmatthew/Figma-Plugin-Ebook-Creator):** see above.
 
+### Published articles
+
+- [Why Gulf businesses buy software and keep using paper](https://www.wamda.com/2026/11/gulf-businesses-buy-software-using-paper) (Wamda, November 2026): why shops pay for software and keep the notebook, and what software has to prove to earn trust.
+- [Hotel PMS software has one root problem. Everything else is a symptom.](https://hospitalitytech.com/hotel-pms-software-has-one-root-problem-everything-else-symptom) (HospitalityTech, September 2026)
+
 ### Read my studies
 
 - [Everything is AI now](https://truthofmatthew.substack.com/p/every-thing-is-ai-now): how many Y Combinator startups call themselves AI companies, summer 2026 against winter 2022.
