@@ -6,7 +6,7 @@
 
 I share open tools for product people and right-to-left design. Follow to get them first.
 
-[truthofmatthew.com](https://truthofmatthew.com) · [LinkedIn](https://www.linkedin.com/in/truthofmatthew/) · [Substack](https://truthofmatthew.substack.com/) · [YouTube](https://www.youtube.com/@truthofmatthew) · [X](https://x.com/truthofmatthew) · [Instagram](https://www.instagram.com/truthofmatthew/)
+[truthofmatthew.com](https://truthofmatthew.com) · [LinkedIn](https://www.linkedin.com/in/truthofmatthew/) · [Substack](https://truthofmatthew.substack.com/) · [YouTube](https://www.youtube.com/@truthofmatthew) · [ADPList](https://adplist.org/members/matthew-truth-mw7w6k0w) · [X](https://x.com/truthofmatthew) · [Instagram](https://www.instagram.com/truthofmatthew/)
 
 ---
 
@@ -23,11 +23,13 @@ I share open tools for product people and right-to-left design. Follow to get th
 
 ### Published articles
 
+- [How Oman-Based Octabiz Is Using AI to Rethink Business Software](https://mena.entrepreneur.com/starting-a-business/how-oman-based-octabiz-is-using-ai-to-rethink-business-software) (Entrepreneur Middle East, November 2026): an interview by Tamara Pupic.
 - [Why Gulf businesses buy software and keep using paper](https://www.wamda.com/2026/11/gulf-businesses-buy-software-using-paper) (Wamda, November 2026): why shops pay for software and keep the notebook, and what software has to prove to earn trust.
 - [Hotel PMS software has one root problem. Everything else is a symptom.](https://hospitalitytech.com/hotel-pms-software-has-one-root-problem-everything-else-symptom) (HospitalityTech, September 2026)
 
 ### Read my studies
 
+- [Three questions before you do anything](https://truthofmatthew.substack.com/p/three-questions-before-you-do-anything): what I tell my business students, and why it starts with knowing yourself.
 - [Everything is AI now](https://truthofmatthew.substack.com/p/every-thing-is-ai-now): how many Y Combinator startups call themselves AI companies, summer 2026 against winter 2022.
 - [Everyone wants AI coders, almost nobody says which tool](https://truthofmatthew.substack.com/p/everyone-wants-ai-coders-almost-nobody): what 330 US software job posts ask for.
 
@@ -53,6 +55,10 @@ My full work history is on [LinkedIn](https://www.linkedin.com/in/truthofmatthew
 - LinkedIn: [in/truthofmatthew](https://www.linkedin.com/in/truthofmatthew/)
 - Substack: [truthofmatthew.substack.com](https://truthofmatthew.substack.com/)
 - YouTube: [@truthofmatthew](https://www.youtube.com/@truthofmatthew)
+- Podcast: [Spotify](https://open.spotify.com/show/5CBbXUbRbVKHpIIhs76igy)
+- Free mentoring: [ADPList](https://adplist.org/members/matthew-truth-mw7w6k0w)
+- Medium: [@truthofmatthew](https://medium.com/@truthofmatthew)
+- Crunchbase: [Matthew Truth](https://www.crunchbase.com/person/matthew-truth)
 - X: [@truthofmatthew](https://x.com/truthofmatthew)
 - Instagram: [@truthofmatthew](https://www.instagram.com/truthofmatthew/)
 - Email: truthofmatthew@gmail.com
